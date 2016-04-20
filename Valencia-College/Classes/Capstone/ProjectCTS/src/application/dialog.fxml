@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="108.0" prefWidth="323.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <center>
+      <Label fx:id="messages" prefHeight="159.0" prefWidth="275.0" text="Label" BorderPane.alignment="CENTER">
+         <BorderPane.margin>
+            <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
+         </BorderPane.margin></Label>
+   </center>
+   <bottom>
+      <HBox fx:id="buttons" alignment="CENTER" prefHeight="43.0" prefWidth="402.0" spacing="15.0" BorderPane.alignment="CENTER" />
+   </bottom>
+</BorderPane>

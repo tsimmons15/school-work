@@ -1,0 +1,23 @@
+.root{
+    -fx-background-image: url("frame_large.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#0C0C0C, #333333);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#333333, #0C0C0C);
+}
+
+.content-boxes {
+	-fx-border-color: gray;
+	-fx-background-color: #F7F7F7;
+}

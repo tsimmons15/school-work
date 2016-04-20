@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<SplitPane dividerPositions="0.5, 0.9598853868194842" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" orientation="VERTICAL" prefHeight="700.0" prefWidth="1366.0" stylesheets="@application.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.PageEight">
+  <items>
+      <ScrollPane prefHeight="200.0" prefWidth="200.0">
+         <content>
+            <AnchorPane prefHeight="700.0" prefWidth="1364.0">
+               <children>
+                  <Label fx:id="name" layoutX="14.0" layoutY="14.0" prefHeight="17.0" prefWidth="178.0" styleClass="content-boxes" />
+                  <Label layoutX="22.0" layoutY="31.0" text="Character Name" />
+                  <Label fx:id="race" layoutX="200.0" layoutY="14.0" prefHeight="17.0" prefWidth="71.0" styleClass="content-boxes" />
+                  <Label layoutX="208.0" layoutY="31.0" text="Race" />
+                  <Label fx:id="alignment" layoutX="280.0" layoutY="14.0" prefHeight="19.0" prefWidth="100.0" styleClass="content-boxes" />
+                  <Label layoutX="293.0" layoutY="31.0" text="Alignment" />
+                  <Label fx:id="deity" layoutX="394.0" layoutY="14.0" prefHeight="17.0" prefWidth="87.0" styleClass="content-boxes" />
+                  <Label layoutX="401.0" layoutY="31.0" text="Deity" />
+                  <Label fx:id="size" layoutX="496.0" layoutY="14.0" prefHeight="19.0" prefWidth="55.0" styleClass="content-boxes" />
+                  <Label layoutX="502.0" layoutY="31.0" text="Size" />
+                  <Label fx:id="age" layoutX="557.0" layoutY="14.0" prefHeight="19.0" prefWidth="40.0" styleClass="content-boxes" />
+                  <Label layoutX="571.0" layoutY="31.0" text="Age" />
+                  <Label fx:id="gender" layoutX="604.0" layoutY="14.0" prefHeight="17.0" prefWidth="57.0" styleClass="content-boxes" />
+                  <Label layoutX="605.0" layoutY="31.0" text="Gender" />
+                  <Label fx:id="height" layoutX="669.0" layoutY="14.0" prefHeight="17.0" prefWidth="55.0" styleClass="content-boxes" />
+                  <Label layoutX="673.0" layoutY="31.0" text="Height" />
+                  <Label fx:id="weight" alignment="CENTER_RIGHT" layoutX="731.0" layoutY="14.0" prefHeight="17.0" prefWidth="42.0" styleClass="content-boxes" />
+                  <Label layoutX="731.0" layoutY="31.0" text="Weight" />
+                  <Label fx:id="eyes" layoutX="779.0" layoutY="14.0" prefHeight="19.0" prefWidth="55.0" styleClass="content-boxes" />
+                  <Label layoutX="786.0" layoutY="31.0" text="Eyes" />
+                  <Label fx:id="hair" layoutX="837.0" layoutY="14.0" prefHeight="19.0" prefWidth="68.0" styleClass="content-boxes" />
+                  <Label layoutX="845.0" layoutY="31.0" text="Hair" />
+                  <Label fx:id="skin" layoutX="910.0" layoutY="14.0" prefHeight="17.0" prefWidth="63.0" styleClass="content-boxes" />
+                  <Label layoutX="913.0" layoutY="31.0" text="Skin" />
+                  <ImageView fx:id="logo" fitHeight="87.0" fitWidth="341.0" layoutX="998.0" layoutY="13.0" pickOnBounds="true" preserveRatio="true" />
+                  <ListView fx:id="classesList" layoutX="14.0" layoutY="75.0" prefHeight="275.0" prefWidth="200.0" />
+                  <Label layoutX="17.0" layoutY="58.0" text="Character Classes" underline="true" />
+                  <Label layoutX="17.0" layoutY="353.0" text="Attribute Scores" underline="true" />
+                  <ListView fx:id="attributeScores" layoutX="14.0" layoutY="370.0" prefHeight="275.0" prefWidth="200.0" />
+                  <GridPane fx:id="skillList" alignment="CENTER" layoutX="905.0" layoutY="159.0" prefHeight="500.0" prefWidth="429.0" styleClass="content-boxes">
+                    <columnConstraints>
+                      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="33.0" minWidth="10.0" prefWidth="23.0" />
+                      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="200.0" minWidth="10.0" prefWidth="129.0" />
+                        <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="1000.0" minWidth="4.0" prefWidth="64.0" />
+                        <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="61.0" minWidth="3.3333740234375" prefWidth="38.0" />
+                        <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="64.0" minWidth="10.0" prefWidth="26.0" />
+                        <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="122.0" minWidth="10.0" prefWidth="37.0" />
+                        <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="116.0" minWidth="10.0" prefWidth="21.0" />
+                        <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="112.0" minWidth="10.0" prefWidth="31.0" />
+                        <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="94.0" minWidth="10.0" prefWidth="18.0" />
+                        <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="83.0" minWidth="10.0" prefWidth="42.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                      <RowConstraints maxHeight="169.0" minHeight="0.0" prefHeight="18.333328247070312" valignment="CENTER" vgrow="SOMETIMES" />
+                      <RowConstraints maxHeight="470.6666717529297" minHeight="10.0" prefHeight="462.6666717529297" valignment="CENTER" vgrow="SOMETIMES" />
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" valignment="CENTER" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                  </GridPane>
+                  <Label layoutX="220.0" layoutY="80.0" style="-fx-background-color: black;" text="Hit Points" textFill="WHITE">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="hpTotal" layoutX="300.0" layoutY="78.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label layoutX="299.0" layoutY="59.0" text="Total" />
+                  <Label fx:id="currHP" layoutX="334.0" layoutY="78.0" prefHeight="25.0" prefWidth="171.0" styleClass="content-boxes" />
+                  <Label layoutX="341.0" layoutY="57.0" text="Wounds/Current HP" />
+                  <Label fx:id="nonLethal" layoutX="513.0" layoutY="79.0" prefHeight="25.0" prefWidth="102.0" styleClass="content-boxes" />
+                  <Label layoutX="511.0" layoutY="58.0" text="Non-lethal Damage" />
+                  <Label layoutX="659.0" layoutY="57.0" text="Speed" />
+                  <Label alignment="CENTER_RIGHT" layoutX="622.0" layoutY="79.0" prefHeight="25.0" prefWidth="144.0" styleClass="content-boxes" text="feet/second" textAlignment="CENTER" />
+                  <Label fx:id="charSpeed" layoutX="622.0" layoutY="79.0" prefHeight="26.0" prefWidth="80.0" />
+                  <Label layoutX="907.0" layoutY="121.0" prefHeight="36.0" prefWidth="28.0" text="Class Skill" wrapText="true" />
+                  <Label layoutX="950.0" layoutY="135.0" prefHeight="25.0" prefWidth="83.0" text="Skill Name" wrapText="true" />
+                  <Label layoutX="1074.0" layoutY="121.0" prefHeight="36.0" prefWidth="28.0" text="Key Attr" wrapText="true" />
+                  <Label layoutX="1126.0" layoutY="121.0" prefHeight="36.0" prefWidth="29.0" text="Skill Mod." wrapText="true" />
+                  <Label layoutX="1188.0" layoutY="121.0" prefHeight="36.0" prefWidth="28.0" text="Attr Mod." wrapText="true" />
+                  <Label layoutX="1241.0" layoutY="121.0" prefHeight="36.0" prefWidth="28.0" text="Skill Rank" wrapText="true" />
+                  <Label layoutX="1295.0" layoutY="121.0" prefHeight="36.0" prefWidth="28.0" text="Misc. Mod." wrapText="true" />
+                  <Label layoutX="220.0" layoutY="113.0" style="-fx-background-color: black;" text="Armor Class" textFill="WHITE" wrapText="true">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="initTotal" layoutX="841.0" layoutY="77.0" prefHeight="25.0" prefWidth="38.0" styleClass="content-boxes" />
+                  <Label layoutX="775.0" layoutY="78.0" prefHeight="25.0" style="-fx-background-color: black;" text="Initiative" textFill="WHITE">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="842.0" layoutY="58.0" text="Total" />
+                  <Label layoutX="881.0" layoutY="81.0" text="=" />
+                  <Label fx:id="initDexMod" layoutX="892.0" layoutY="77.0" prefHeight="25.0" prefWidth="38.0" styleClass="content-boxes" />
+                  <Label layoutX="887.0" layoutY="58.0" text="Dexterity">
+                     <font>
+                        <Font size="9.0" />
+                     </font></Label>
+                  <Label layoutX="890.0" layoutY="104.0" text="Modifier">
+                     <font>
+                        <Font size="9.0" />
+                     </font></Label>
+                  <Label layoutX="951.0" layoutY="103.0" text="Modifier">
+                     <font>
+                        <Font size="9.0" />
+                     </font></Label>
+                  <Label layoutX="957.0" layoutY="58.0" text="Misc.">
+                     <font>
+                        <Font size="9.0" />
+                     </font></Label>
+                  <Label fx:id="initMiscMod" layoutX="953.0" layoutY="77.0" prefHeight="25.0" prefWidth="38.0" styleClass="content-boxes" />
+                  <Label layoutX="937.0" layoutY="80.0" text="+" />
+                  <Label layoutX="298.0" layoutY="139.0" text="Total" />
+                  <Label fx:id="acTotal" layoutX="300.0" layoutY="110.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label layoutX="329.0" layoutY="113.0" text="=  10  +" />
+                  <Label fx:id="armorBonus" layoutX="375.0" layoutY="110.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label layoutX="403.0" layoutY="114.0" text="+" />
+                  <Label layoutX="442.0" layoutY="114.0" text="+" />
+                  <Label fx:id="shieldBonus" layoutX="414.0" layoutY="110.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label layoutX="484.0" layoutY="115.0" text="+" />
+                  <Label fx:id="acDexMod" layoutX="456.0" layoutY="111.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label layoutX="523.0" layoutY="114.0" text="+" />
+                  <Label fx:id="acSizeMod" layoutX="495.0" layoutY="110.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label layoutX="562.0" layoutY="115.0" text="+" />
+                  <Label fx:id="acNatArmor" layoutX="534.0" layoutY="111.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" text="0" />
+                  <Label layoutX="603.0" layoutY="114.0" text="+" />
+                  <Label fx:id="acDeflectBonus" layoutX="575.0" layoutY="110.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" text="0" />
+                  <Label layoutX="375.0" layoutY="134.0" prefHeight="37.0" prefWidth="28.0" text="Armor Bonus" wrapText="true">
+                     <font>
+                        <Font size="9.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="413.0" layoutY="134.0" prefHeight="37.0" prefWidth="28.0" text="Shield Bonus" wrapText="true">
+                     <font>
+                        <Font size="9.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="455.0" layoutY="133.0" prefHeight="37.0" prefWidth="28.0" text="Dex Mod." wrapText="true">
+                     <font>
+                        <Font size="9.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="495.0" layoutY="133.0" prefHeight="37.0" prefWidth="28.0" text="Size Mod." wrapText="true">
+                     <font>
+                        <Font size="9.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="532.0" layoutY="133.0" prefHeight="37.0" prefWidth="30.0" text="Natural Armor" wrapText="true">
+                     <font>
+                        <Font size="9.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="574.0" layoutY="132.0" prefHeight="37.0" prefWidth="28.0" text="Deflect Bonus" wrapText="true">
+                     <font>
+                        <Font size="9.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="620.0" layoutY="132.0" prefHeight="37.0" prefWidth="28.0" text="Misc. Mod." wrapText="true">
+                     <font>
+                        <Font size="9.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="acMiscMod" layoutX="620.0" layoutY="111.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" text="0" />
+                  <ListView fx:id="damageReduction" fixedCellSize="25.0" layoutX="657.0" layoutY="112.0" prefHeight="25.0" prefWidth="172.0" styleClass="content-boxes" />
+                  <Label alignment="CENTER" layoutX="688.0" layoutY="139.0" text="Damage Reduction" />
+                  <Label alignment="CENTER" layoutX="229.0" layoutY="173.0" prefHeight="20.0" prefWidth="53.0" style="-fx-background-color: black;" text="Touch" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="229.0" layoutY="189.0" style="-fx-background-color: black;" text="Armor Class" textFill="WHITE" wrapText="true">
+                     <font>
+                        <Font size="10.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="377.0" layoutY="190.0" prefHeight="15.0" prefWidth="76.0" style="-fx-background-color: black;" text="Armor Class" textFill="WHITE" wrapText="true">
+                     <font>
+                        <Font size="10.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="377.0" layoutY="174.0" prefHeight="20.0" prefWidth="76.0" style="-fx-background-color: black;" text="Flat-Footed" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="acTouch" alignment="CENTER" layoutX="289.0" layoutY="176.0" prefHeight="25.0" prefWidth="72.0" styleClass="content-boxes" />
+                  <Label fx:id="acFlatFoot" alignment="CENTER" layoutX="462.0" layoutY="176.0" prefHeight="25.0" prefWidth="72.0" styleClass="content-boxes" />
+                  <Label alignment="CENTER" layoutX="220.0" layoutY="217.0" prefHeight="20.0" prefWidth="74.0" style="-fx-background-color: black;" text="Fortitude" textFill="WHITE" wrapText="true">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="502.0" layoutY="234.0" prefHeight="24.0" prefWidth="30.0" text="Temp. Modifier" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="466.0" layoutY="227.0" prefHeight="37.0" prefWidth="28.0" text="Misc. Modifier" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="426.0" layoutY="227.0" prefHeight="37.0" prefWidth="28.0" text="Magic Modifier" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="383.0" layoutY="232.0" prefHeight="29.0" prefWidth="28.0" text="Attribute Modifier" textAlignment="CENTER" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="346.0" layoutY="232.0" prefHeight="29.0" prefWidth="28.0" text="Base Save" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="fortTempModifier" alignment="CENTER" layoutX="504.0" layoutY="212.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" text="0" />
+                  <Label fx:id="fortMiscModifier" alignment="CENTER" layoutX="465.0" layoutY="211.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" text="0" />
+                  <Label layoutX="493.0" layoutY="215.0" text="+" />
+                  <Label fx:id="fortMagicModifier" alignment="CENTER" layoutX="426.0" layoutY="212.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" text="0" />
+                  <Label layoutX="454.0" layoutY="216.0" text="+" />
+                  <Label fx:id="fortAttrModifier" layoutX="384.0" layoutY="211.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label layoutX="412.0" layoutY="215.0" text="+" />
+                  <Label layoutX="373.0" layoutY="215.0" text="+" />
+                  <Label fx:id="fortBaseSave" layoutX="345.0" layoutY="211.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label layoutX="328.0" layoutY="216.0" text="=" />
+                  <Label fx:id="fortTotal" layoutX="299.0" layoutY="213.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label layoutX="297.0" layoutY="242.0" text="Total" />
+                  <Label layoutX="298.0" layoutY="294.0" text="Total" />
+                  <Label fx:id="willTotal" layoutX="300.0" layoutY="265.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label layoutX="329.0" layoutY="268.0" text="=" />
+                  <Label fx:id="willBaseSave" alignment="CENTER" layoutX="346.0" layoutY="263.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label alignment="CENTER" layoutX="374.0" layoutY="267.0" text="+" />
+                  <Label alignment="CENTER" layoutX="413.0" layoutY="267.0" text="+" />
+                  <Label fx:id="willAttrModifier" alignment="CENTER" layoutX="385.0" layoutY="263.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label alignment="CENTER" layoutX="455.0" layoutY="268.0" text="+" />
+                  <Label fx:id="willMagicModifier" alignment="CENTER" layoutX="427.0" layoutY="264.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" text="0" />
+                  <Label alignment="CENTER" layoutX="494.0" layoutY="267.0" text="+" />
+                  <Label fx:id="willMiscModifier" alignment="CENTER" layoutX="466.0" layoutY="263.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" text="0" />
+                  <Label fx:id="willTempModifier" alignment="CENTER" layoutX="505.0" layoutY="264.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" text="0" />
+                  <Label alignment="CENTER" layoutX="347.0" layoutY="284.0" prefHeight="29.0" prefWidth="28.0" text="Base Save" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="384.0" layoutY="284.0" prefHeight="29.0" prefWidth="28.0" text="Attribute Modifier" textAlignment="CENTER" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="427.0" layoutY="279.0" prefHeight="37.0" prefWidth="28.0" text="Magic Modifier" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="467.0" layoutY="279.0" prefHeight="37.0" prefWidth="28.0" text="Misc. Modifier" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="503.0" layoutY="286.0" prefHeight="24.0" prefWidth="30.0" text="Temp. Modifier" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="221.0" layoutY="269.0" prefHeight="20.0" prefWidth="74.0" style="-fx-background-color: black;" text="Will" textFill="WHITE" wrapText="true">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="219.0" layoutY="323.0" prefHeight="20.0" prefWidth="74.0" style="-fx-background-color: black;" text="Reflex" textFill="WHITE" wrapText="true">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="501.0" layoutY="340.0" prefHeight="24.0" prefWidth="30.0" text="Temp. Modifier" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="465.0" layoutY="333.0" prefHeight="37.0" prefWidth="28.0" text="Misc. Modifier" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="426.0" layoutY="333.0" prefHeight="37.0" prefWidth="28.0" text="Magic Modifier" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="382.0" layoutY="338.0" prefHeight="29.0" prefWidth="28.0" text="Attribute Modifier" textAlignment="CENTER" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="345.0" layoutY="338.0" prefHeight="29.0" prefWidth="28.0" text="Base Save" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="refTempModifier" alignment="CENTER" layoutX="503.0" layoutY="318.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" text="0" />
+                  <Label fx:id="refMiscModifier" alignment="CENTER" layoutX="464.0" layoutY="317.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" text="0" />
+                  <Label alignment="CENTER" layoutX="492.0" layoutY="321.0" text="+" />
+                  <Label fx:id="refMagicModifier" alignment="CENTER" layoutX="425.0" layoutY="318.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" text="0" />
+                  <Label alignment="CENTER" layoutX="453.0" layoutY="322.0" text="+" />
+                  <Label fx:id="refAttrModifier" alignment="CENTER" layoutX="383.0" layoutY="317.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label alignment="CENTER" layoutX="411.0" layoutY="321.0" text="+" />
+                  <Label alignment="CENTER" layoutX="372.0" layoutY="321.0" text="+" />
+                  <Label fx:id="refBaseSave" alignment="CENTER" layoutX="344.0" layoutY="317.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label alignment="CENTER" layoutX="327.0" layoutY="322.0" text="=" />
+                  <Label fx:id="refTotal" alignment="CENTER" layoutX="298.0" layoutY="319.0" prefHeight="25.0" prefWidth="25.0" styleClass="content-boxes" />
+                  <Label alignment="CENTER" layoutX="296.0" layoutY="348.0" text="Total" />
+                  <Label alignment="CENTER" layoutX="547.0" layoutY="178.0" prefHeight="20.0" prefWidth="124.0" style="-fx-background-color: black;" text="Spell Resistance" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="spellResistance" alignment="CENTER" layoutX="678.0" layoutY="178.0" prefHeight="19.0" prefWidth="94.0" styleClass="content-boxes" />
+                  <Label fx:id="baseAttackBonus" alignment="CENTER" layoutX="678.0" layoutY="293.0" prefHeight="19.0" prefWidth="94.0" styleClass="content-boxes" />
+                  <Label alignment="CENTER" layoutX="547.0" layoutY="293.0" prefHeight="20.0" prefWidth="124.0" style="-fx-background-color: black;" text="Base Attack Bonus" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="grappleTotal" alignment="CENTER" layoutX="630.0" layoutY="218.0" prefHeight="25.0" prefWidth="33.0" styleClass="content-boxes" />
+                  <Label alignment="CENTER" layoutX="545.0" layoutY="216.0" prefHeight="20.0" prefWidth="76.0" style="-fx-background-color: black;" text="Grapple" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="545.0" layoutY="233.0" prefHeight="15.0" prefWidth="76.0" style="-fx-background-color: black;" text="Modifier" textFill="WHITE" wrapText="true">
+                     <font>
+                        <Font size="9.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="633.0" layoutY="247.0" text="Total" />
+                  <Label alignment="CENTER" layoutX="709.0" layoutY="223.0" text="+" />
+                  <Label fx:id="grappleStrMod" alignment="CENTER" layoutX="722.0" layoutY="220.0" prefHeight="25.0" prefWidth="27.0" styleClass="content-boxes" />
+                  <Label fx:id="grappleBAB" alignment="CENTER" layoutX="677.0" layoutY="219.0" prefHeight="25.0" prefWidth="27.0" styleClass="content-boxes" />
+                  <Label alignment="CENTER" layoutX="659.0" layoutY="224.0" text="=" />
+                  <Label fx:id="grappleSizeMod" alignment="CENTER" layoutX="765.0" layoutY="220.0" prefHeight="25.0" prefWidth="27.0" styleClass="content-boxes" />
+                  <Label fx:id="grappleMiscMod" alignment="CENTER" layoutX="811.0" layoutY="220.0" prefHeight="25.0" prefWidth="27.0" styleClass="content-boxes" text="0" />
+                  <Label alignment="CENTER" layoutX="798.0" layoutY="224.0" text="+" />
+                  <Label alignment="CENTER" layoutX="753.0" layoutY="224.0" text="+" />
+                  <Label alignment="CENTER" layoutX="680.0" layoutY="248.0" prefHeight="35.0" prefWidth="27.0" text="Base Attack Bonus" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="725.0" layoutY="249.0" prefHeight="35.0" prefWidth="27.0" text="Strength Modifier" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="773.0" layoutY="249.0" prefHeight="35.0" prefWidth="27.0" text="  Size Modifier" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="818.0" layoutY="249.0" prefHeight="35.0" prefWidth="27.0" text="   Misc. Modifier" wrapText="true">
+                     <font>
+                        <Font size="7.0" />
+                     </font>
+                  </Label>
+                  <GridPane fx:id="weaponList" layoutX="238.0" layoutY="408.0" prefHeight="210.0" prefWidth="349.0" styleClass="content-boxes">
+                     <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="77.33334350585938" minWidth="10.0" prefWidth="74.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="200.0" minWidth="10.0" prefWidth="70.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="1000.0" minWidth="4.0" prefWidth="57.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="118.66665649414062" minWidth="3.3333740234375" prefWidth="45.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="75.00003051757812" minWidth="0.33331298828125" prefWidth="38.6666259765625" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="104.666748046875" minWidth="10.0" prefWidth="60.3333740234375" />
+                     </columnConstraints>
+                     <rowConstraints>
+                        <RowConstraints maxHeight="169.0" minHeight="0.0" prefHeight="21.333343505859375" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="470.6666717529297" minHeight="5.66668701171875" prefHeight="21.333343505859375" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="470.6666717529297" minHeight="7.66668701171875" prefHeight="20.666656494140625" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="470.6666717529297" minHeight="10.0" prefHeight="21.66668701171875" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="470.6666717529297" minHeight="10.0" prefHeight="21.33331298828125" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="470.6666717529297" minHeight="10.0" prefHeight="21.666656494140625" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="470.6666717529297" minHeight="5.33331298828125" prefHeight="21.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="470.6666717529297" minHeight="10.0" prefHeight="21.66668701171875" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="470.6666717529297" minHeight="10.0" prefHeight="21.66668701171875" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="470.6666717529297" minHeight="10.0" prefHeight="19.33331298828125" vgrow="SOMETIMES" />
+                     </rowConstraints>
+                  </GridPane>
+                  <Label alignment="CENTER" layoutX="240.0" layoutY="390.0" prefHeight="17.0" prefWidth="73.0" text="Attack" />
+                  <Label alignment="CENTER" layoutX="316.0" layoutY="389.0" prefHeight="19.0" prefWidth="68.0" text="Bonus" />
+                  <Label alignment="CENTER" layoutX="388.0" layoutY="389.0" prefHeight="19.0" prefWidth="50.0" text="Damage" />
+                  <Label alignment="CENTER" layoutX="444.0" layoutY="390.0" text="Critical" />
+                  <Label alignment="CENTER" layoutX="488.0" layoutY="390.0" text="Range" />
+                  <Label alignment="CENTER" layoutX="530.0" layoutY="390.0" prefHeight="19.0" prefWidth="54.0" text="Type" textAlignment="CENTER" />
+               </children>
+            </AnchorPane>
+         </content>
+      </ScrollPane>
+      <ScrollPane prefHeight="290.0" prefWidth="1365.0">
+        <content>
+          <AnchorPane prefHeight="700.0" prefWidth="1360.0">
+               <children>
+                  <Label fx:id="currCampaign" alignment="CENTER" layoutX="14.0" layoutY="14.0" prefHeight="50.0" prefWidth="400.0" styleClass="content-boxes" wrapText="true">
+                     <font>
+                        <Font size="13.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="34.0" layoutY="64.0" text="Current Character Campaign" />
+                  <Label fx:id="currExperience" alignment="CENTER_RIGHT" layoutX="14.0" layoutY="99.0" prefHeight="17.0" prefWidth="400.0" styleClass="content-boxes" text="xp." />
+                  <Label alignment="CENTER" layoutX="34.0" layoutY="118.0" text="Current Experience" />
+                  <ListView fx:id="currFeats" layoutX="436.0" layoutY="14.0" prefHeight="330.0" prefWidth="400.0" />
+                  <Label alignment="CENTER" layoutX="459.0" layoutY="342.0" text="Selected Feats" />
+                  <ListView fx:id="spellBook" layoutX="861.0" layoutY="14.0" prefHeight="330.0" prefWidth="332.0" />
+                  <Label fx:id="clericDomain" layoutX="1203.0" layoutY="22.0" prefHeight="36.0" prefWidth="135.0" styleClass="content-boxes" />
+                  <Label layoutX="1211.0" layoutY="56.0" text="Clerical Domain" />
+                  <Label layoutX="1211.0" layoutY="110.0" text="Wizard School" />
+                  <Label fx:id="wizSchool" layoutX="1203.0" layoutY="76.0" prefHeight="36.0" prefWidth="135.0" styleClass="content-boxes" />
+                  <Label fx:id="sorcBloodline" layoutX="1203.0" layoutY="135.0" prefHeight="36.0" prefWidth="135.0" styleClass="content-boxes" />
+                  <Label layoutX="1211.0" layoutY="169.0" text="Sorcerer's Bloodline" />
+                  <ListView fx:id="equippedArmor" layoutX="14.0" layoutY="164.0" prefHeight="176.0" prefWidth="401.0" />
+                  <Label layoutX="34.0" layoutY="147.0" text="Equipped Armor" />
+                  <Label layoutX="14.0" layoutY="359.0" text="Inventory" />
+                  <ListView fx:id="currInventory" layoutX="14.0" layoutY="376.0" prefHeight="180.0" prefWidth="400.0" />
+                  <Label layoutX="16.0" layoutY="556.0" text="Current Load" />
+                  <Label alignment="CENTER_RIGHT" layoutX="92.0" layoutY="556.0" prefHeight="17.0" prefWidth="92.0" styleClass="content-boxes" text="lbs.">
+                     <font>
+                        <Font size="10.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="currLoad" layoutX="92.0" layoutY="557.0" prefHeight="17.0" prefWidth="73.0" />
+                  <Label alignment="CENTER_RIGHT" layoutX="20.0" layoutY="619.0" prefHeight="17.0" prefWidth="85.0" styleClass="content-boxes" text="cp." />
+                  <Label fx:id="copperPieces" layoutX="20.0" layoutY="619.0" prefHeight="17.0" prefWidth="67.0" />
+                  <Label layoutX="110.0" layoutY="619.0" prefHeight="17.0" prefWidth="67.0" />
+                  <Label fx:id="silverPieces" alignment="CENTER_RIGHT" layoutX="110.0" layoutY="619.0" prefHeight="17.0" prefWidth="85.0" styleClass="content-boxes" text="sp." />
+                  <Label alignment="CENTER_RIGHT" layoutX="203.0" layoutY="618.0" prefHeight="17.0" prefWidth="85.0" styleClass="content-boxes" text="gp." />
+                  <Label fx:id="goldPieces" layoutX="203.0" layoutY="618.0" prefHeight="17.0" prefWidth="67.0" />
+                  <Label layoutX="301.0" layoutY="617.0" prefHeight="17.0" prefWidth="67.0" />
+                  <Label fx:id="platinumPieces" alignment="CENTER_RIGHT" layoutX="301.0" layoutY="617.0" prefHeight="17.0" prefWidth="85.0" styleClass="content-boxes" text="pp." />
+                  <Label layoutX="189.0" layoutY="557.0" text="Carrying Capacity" />
+                  <Label fx:id="currCarryingCapacity" layoutX="288.0" layoutY="557.0" prefHeight="17.0" prefWidth="125.0" styleClass="content-boxes" text="Medium Load 500lbs" />
+                  <Label layoutX="459.0" layoutY="359.0" text="Languages Known" />
+                  <ListView fx:id="knownLang" layoutX="435.0" layoutY="376.0" prefHeight="200.0" prefWidth="200.0" />
+                  <Label layoutX="1211.0" layoutY="226.0" text="Spell Save DC Modifier" />
+                  <Label fx:id="spellSave" layoutX="1203.0" layoutY="192.0" prefHeight="36.0" prefWidth="135.0" styleClass="content-boxes" />
+                  <Label layoutX="1211.0" layoutY="281.0" text="Spell Failure %" />
+                  <Label fx:id="spellFailure" layoutX="1203.0" layoutY="245.0" prefHeight="36.0" prefWidth="135.0" styleClass="content-boxes" />
+                  <Label layoutX="882.0" layoutY="342.0" text="Spellbook" />
+                  <ListView fx:id="followers" layoutX="636.0" layoutY="376.0" prefHeight="200.0" prefWidth="200.0" />
+                  <Label layoutX="652.0" layoutY="359.0" text="Followers and Contacts" />
+               </children></AnchorPane>
+        </content>
+      </ScrollPane>
+      <HBox alignment="CENTER_RIGHT" prefHeight="100.0" prefWidth="200.0" spacing="15.0">
+         <children>
+            <Button fx:id="reviewGoBack" mnemonicParsing="false" onAction="#prevCalled" text="Go Back" />
+            <Button fx:id="reviewDiscard" mnemonicParsing="false" onAction="#startOverCalled" text="Discard" />
+            <Button fx:id="reviewAccept" mnemonicParsing="false" onAction="#finishCalled" text="Accept" />
+         </children>
+         <padding>
+            <Insets right="15.0" />
+         </padding>
+      </HBox>
+  </items>
+</SplitPane>

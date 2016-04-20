@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="1366.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <bottom>
+      <HBox alignment="CENTER_RIGHT" prefHeight="100.0" prefWidth="200.0" spacing="15.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button mnemonicParsing="false" text="Go Back" onAction="#prevCalled" />
+            <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" text="Clear" onAction="#clearCalled" />
+            <Button fx:id="next" mnemonicParsing="false" onAction="#nextCalled" text="Next">
+				 <HBox.margin>
+					<Insets right="150.0" />
+				 </HBox.margin>
+			</Button>
+         </children>
+      </HBox>
+   </bottom>
+</BorderPane>
