@@ -1,0 +1,40 @@
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Release\TranslationProject.exe.config
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Release\TranslationProject.exe
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Release\TranslationProject.pdb
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Release\DocumentFormat.OpenXml.dll
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Release\DocumentFormat.OpenXml.Extensions.dll
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Release\DocumentFormat.OpenXml.xml
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Release\DocumentFormat.OpenXml.Extensions.xml
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Release\ResolveAssemblyReference.cache
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Release\TranslationProject.abtProjectBabble.resources
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Release\TranslationProject.frmTranslateDoc.resources
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Release\TranslationProject.frmTranslateFrom.resources
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Release\TranslationProject.frmTranslateMain.resources
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Release\TranslationProject.frmTranslateTo.resources
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Release\TranslationProject.Properties.Resources.resources
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Release\TranslationProject.splshLoad.resources
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Release\GenerateResource.read.1.tlog
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Release\GenerateResource.write.1.tlog
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Release\TranslationProject.exe
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Release\TranslationProject.pdb
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Release\TranslationProject.exe.config
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Release\TranslationProject.exe.manifest
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Release\TranslationProject.application
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Release\TranslationProject.exe
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Release\TranslationProject.pdb
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Release\DocumentFormat.OpenXml.xml
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Release\DocumentFormat.OpenXml.Extensions.xml
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Release\ResolveAssemblyReference.cache
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Release\TranslationProject.abtProjectBabble.resources
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Release\TranslationProject.frmTranslateDoc.resources
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Release\TranslationProject.frmTranslateFrom.resources
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Release\TranslationProject.frmTranslateMain.resources
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Release\TranslationProject.frmTranslateTo.resources
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Release\TranslationProject.Properties.Resources.resources
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Release\TranslationProject.splshLoad.resources
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Release\GenerateResource.read.1.tlog
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Release\GenerateResource.write.1.tlog
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Release\TranslationProject.exe.manifest
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Release\TranslationProject.application
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Release\TranslationProject.exe
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Release\TranslationProject.pdb

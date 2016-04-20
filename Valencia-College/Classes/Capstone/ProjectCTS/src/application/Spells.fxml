@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+		
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="1366.0" stylesheets="@application.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.PageFour">
+         <bottom>
+            <HBox fx:id="buttonBox" alignment="CENTER_RIGHT" prefHeight="100.0" prefWidth="200.0" spacing="15.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Button fx:id="go_back" mnemonicParsing="false" text="Go Back" onAction="#prevCalled"/>
+                  <Button fx:id="clear" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" text="Clear" onAction="#clearCalled"/>
+                  <Button fx:id="next" mnemonicParsing="false" onAction="#nextCalled" text="Next">
+                     <HBox.margin>
+                        <Insets right="150.0" />
+                     </HBox.margin>
+                  </Button>
+               </children>
+            </HBox>
+         </bottom>
+		 <center>
+			<AnchorPane  prefHeight="500.0" prefWidth="1280">
+				<children>
+				  <ImageView fx:id="myLogo" fitHeight="87.0" fitWidth="400.0" pickOnBounds="true">
+					 <image>
+						<Image url="@D&amp;DLogo.jpg" />
+					 </image>
+				  </ImageView>
+				  <Label layoutX="40.0" layoutY="103.0" text="Spells">
+					 <font>
+						<Font size="26.0" />
+					 </font>
+				  </Label>
+				  <ListView fx:id="spellList" layoutX="351.0" layoutY="153.0" prefHeight="416.0" prefWidth="400.0" />
+				  <Label fx:id="spellDesc" alignment="TOP_LEFT" layoutX="40.0" layoutY="409.0" prefHeight="160.0" prefWidth="301.0" text="Description here" />
+				  <Label layoutX="40.0" layoutY="153.0" text="Spell School" />
+				  <Label fx:id="spellSchool" layoutX="121.0" layoutY="155.0" prefHeight="17.0" prefWidth="158.0" />
+				  <Label layoutX="40.0" layoutY="183.0" text="Spell Level" />
+				  <Label fx:id="spellLevel" layoutX="123.0" layoutY="183.0" prefHeight="17.0" prefWidth="49.0" text="1" />
+				  <Label layoutX="40.0" layoutY="211.0" text="Range" />
+				  <Label fx:id="spellRange" layoutX="123.0" layoutY="212.0" prefHeight="17.0" prefWidth="93.0" text="Personal" />
+				  <Label layoutX="40.0" layoutY="243.0" text="Area of Effect" />
+				  <Label fx:id="spellAOE" layoutX="123.0" layoutY="243.0" prefHeight="17.0" prefWidth="123.0" text="None" />
+				  <Label layoutX="40.0" layoutY="274.0" text="Components" />
+				  <Label fx:id="spellComponents" layoutX="123.0" layoutY="274.0" prefHeight="17.0" prefWidth="158.0" text="Somatic, Verbal, Material" />
+				  <Label fx:id="spellMaterials" layoutX="40.0" layoutY="301.0" maxWidth="275.0" text="Material Components" visible="false" wrapText="true" />
+				  <Label layoutX="40.0" layoutY="381.0" text="Duration" />
+				  <Label fx:id="spellDuration" layoutX="121.0" layoutY="381.0" prefHeight="17.0" prefWidth="123.0" text="1 Round" />
+				  <Button fx:id="addSpell" layoutX="751.0" layoutY="268.0" mnemonicParsing="false" onAction="#addSpell" prefHeight="30.0" prefWidth="150.0" text="Add to Spellbook" />
+				  <ListView fx:id="spellbook" layoutX="900.0" layoutY="153.0" prefHeight="416.0" prefWidth="400.0" />
+				  <Label layoutX="900.0" layoutY="115.0" text="Spellbook">
+					 <font>
+						<Font size="18.0" />
+					 </font>
+				  </Label>
+				  <Button fx:id="removeSpell" layoutX="751.0" layoutY="295.0" mnemonicParsing="false" onAction="#removeSpell" prefHeight="30.0" prefWidth="150.0" text="Remove From Spellbook" />
+			   </children>
+			</AnchorPane>
+	 </center>
+</BorderPane>
+

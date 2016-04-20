@@ -1,0 +1,208 @@
+C:\Users\Thrymn\AppData\Local\Temporary Projects\TranslationProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thrymn\AppData\Local\Temporary Projects\TranslationProject\obj\x86\Debug\TranslationProject.abtProjectBabble.resources
+C:\Users\Thrymn\AppData\Local\Temporary Projects\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateDoc.resources
+C:\Users\Thrymn\AppData\Local\Temporary Projects\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateFrom.resources
+C:\Users\Thrymn\AppData\Local\Temporary Projects\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateMain.resources
+C:\Users\Thrymn\AppData\Local\Temporary Projects\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateTo.resources
+C:\Users\Thrymn\AppData\Local\Temporary Projects\TranslationProject\obj\x86\Debug\TranslationProject.Properties.Resources.resources
+C:\Users\Thrymn\AppData\Local\Temporary Projects\TranslationProject\obj\x86\Debug\TranslationProject.splshLoad.resources
+C:\Users\Thrymn\AppData\Local\Temporary Projects\TranslationProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thrymn\AppData\Local\Temporary Projects\TranslationProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thrymn\AppData\Local\Temporary Projects\TranslationProject\bin\Debug\TranslationProject.exe
+C:\Users\Thrymn\AppData\Local\Temporary Projects\TranslationProject\bin\Debug\TranslationProject.pdb
+C:\Users\Thrymn\AppData\Local\Temporary Projects\TranslationProject\obj\x86\Debug\TranslationProject.exe
+C:\Users\Thrymn\AppData\Local\Temporary Projects\TranslationProject\obj\x86\Debug\TranslationProject.pdb
+F:\School\Fall 2012\C#\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.exe
+F:\School\Fall 2012\C#\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.pdb
+F:\School\Fall 2012\C#\TranslationProject\TranslationProject\bin\Debug\TranslationProject.exe
+F:\School\Fall 2012\C#\TranslationProject\TranslationProject\bin\Debug\TranslationProject.pdb
+F:\School\Fall 2012\C#\TranslationProject\TranslationProject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\School\Fall 2012\C#\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.abtProjectBabble.resources
+F:\School\Fall 2012\C#\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateDoc.resources
+F:\School\Fall 2012\C#\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateFrom.resources
+F:\School\Fall 2012\C#\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateMain.resources
+F:\School\Fall 2012\C#\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateTo.resources
+F:\School\Fall 2012\C#\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.Properties.Resources.resources
+F:\School\Fall 2012\C#\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.splshLoad.resources
+F:\School\Fall 2012\C#\TranslationProject\TranslationProject\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\School\Fall 2012\C#\TranslationProject\TranslationProject\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.exe
+G:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.pdb
+G:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\TranslationProject.exe
+G:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\TranslationProject.pdb
+G:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.abtProjectBabble.resources
+G:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateDoc.resources
+G:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateFrom.resources
+G:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateMain.resources
+G:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateTo.resources
+G:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.Properties.Resources.resources
+G:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.splshLoad.resources
+G:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.exe
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.pdb
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\TranslationProject.exe
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\TranslationProject.pdb
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.abtProjectBabble.resources
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateDoc.resources
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateFrom.resources
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateMain.resources
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateTo.resources
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.Properties.Resources.resources
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.splshLoad.resources
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\TranslationProject.exe.config
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\DocumentFormat.OpenXml.dll
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\DocumentFormat.OpenXml.Extensions.dll
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\office.dll
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\DocumentFormat.OpenXml.xml
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\DocumentFormat.OpenXml.Extensions.xml
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\Microsoft.Office.Interop.Word.xml
+F:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\office.xml
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\TranslationProject.exe.config
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\TranslationProject.exe
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\TranslationProject.pdb
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\DocumentFormat.OpenXml.dll
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\DocumentFormat.OpenXml.Extensions.dll
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\DocumentFormat.OpenXml.xml
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\DocumentFormat.OpenXml.Extensions.xml
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\bin\Debug\Microsoft.Office.Interop.Word.xml
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.abtProjectBabble.resources
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateDoc.resources
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateFrom.resources
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateMain.resources
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateTo.resources
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.Properties.Resources.resources
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.splshLoad.resources
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.exe
+E:\School\Fall 2012\C#\Assignment\TranslationProject\TranslationProject\obj\x86\Debug\TranslationProject.pdb
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\bin\Debug\TranslationProject.exe.config
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.exe
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.pdb
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\bin\Debug\TranslationProject.exe
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\bin\Debug\TranslationProject.pdb
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\bin\Debug\DocumentFormat.OpenXml.xml
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\bin\Debug\DocumentFormat.OpenXml.Extensions.xml
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\bin\Debug\Microsoft.Office.Interop.Word.xml
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.abtProjectBabble.resources
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateDoc.resources
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateFrom.resources
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateMain.resources
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateTo.resources
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.Properties.Resources.resources
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.splshLoad.resources
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\School\Fall 2012\C#\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\TranslationProject.exe.config
+E:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.exe
+E:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.pdb
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\TranslationProject.exe.config
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.exe
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.pdb
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\TranslationProject.exe
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\TranslationProject.pdb
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\DocumentFormat.OpenXml.dll
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\DocumentFormat.OpenXml.Extensions.dll
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\office.dll
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\DocumentFormat.OpenXml.xml
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\DocumentFormat.OpenXml.Extensions.xml
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\Microsoft.Office.Interop.Word.xml
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\office.xml
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.abtProjectBabble.resources
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateDoc.resources
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateFrom.resources
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateMain.resources
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateTo.resources
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.Properties.Resources.resources
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.splshLoad.resources
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\TranslationProject.exe.config
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.exe
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.pdb
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\TranslationProject.exe
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\TranslationProject.pdb
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\DocumentFormat.OpenXml.dll
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\DocumentFormat.OpenXml.Extensions.dll
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\Microsoft.Office.Interop.Word.dll
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\DocumentFormat.OpenXml.xml
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\DocumentFormat.OpenXml.Extensions.xml
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\bin\Debug\Microsoft.Office.Interop.Word.xml
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.abtProjectBabble.resources
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateDoc.resources
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateFrom.resources
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateMain.resources
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateTo.resources
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.Properties.Resources.resources
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.splshLoad.resources
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\School\Fall 2012\C#\Assignment\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Debug\TranslationProject.exe.config
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.exe
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.pdb
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Debug\TranslationProject.exe
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Debug\TranslationProject.pdb
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Debug\DocumentFormat.OpenXml.dll
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Debug\DocumentFormat.OpenXml.Extensions.dll
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Debug\Microsoft.Office.Interop.Word.dll
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Debug\DocumentFormat.OpenXml.xml
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Debug\DocumentFormat.OpenXml.Extensions.xml
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\bin\Debug\Microsoft.Office.Interop.Word.xml
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.abtProjectBabble.resources
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateDoc.resources
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateFrom.resources
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateMain.resources
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateTo.resources
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.Properties.Resources.resources
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\TranslationProject.splshLoad.resources
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\School\Fall 2012\C#\Assignment\Old Translation Projects\TranslationProject-SemiFinal\TranslationProject\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Debug\TranslationProject.exe.config
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Debug\TranslationProject.exe
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Debug\TranslationProject.pdb
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Debug\TranslationProject.exe.manifest
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Debug\TranslationProject.application
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Debug\TranslationProject.exe
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Debug\TranslationProject.pdb
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Debug\DocumentFormat.OpenXml.xml
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Debug\DocumentFormat.OpenXml.Extensions.xml
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\bin\Debug\Microsoft.Office.Interop.Word.xml
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Debug\TranslationProject.abtProjectBabble.resources
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateDoc.resources
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateFrom.resources
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateMain.resources
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Debug\TranslationProject.frmTranslateTo.resources
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Debug\TranslationProject.Properties.Resources.resources
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Debug\TranslationProject.splshLoad.resources
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Debug\TranslationProject.exe.manifest
+F:\School\Fall 2012\C#\TranslationProject-Final\TranslationProject\obj\x86\Debug\TranslationProject.application
+G:\School\Fall 2012\C#\Assignment\TranslationProject-Final\TranslationProject\bin\Debug\TranslationProject.exe.config
+G:\School\Fall 2012\C#\Assignment\TranslationProject-Final\TranslationProject\obj\x86\Debug\TranslationProject.exe
+G:\School\Fall 2012\C#\Assignment\TranslationProject-Final\TranslationProject\obj\x86\Debug\TranslationProject.pdb

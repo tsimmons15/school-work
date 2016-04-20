@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="1366.0" stylesheets="@application.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.PageSix">
+         <bottom>
+            <HBox fx:id="buttonBox" alignment="CENTER_RIGHT" prefHeight="100.0" prefWidth="200.0" spacing="15.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Button fx:id="go_back" mnemonicParsing="false" onAction="#prevCalled" text="Go Back" />
+                  <Button fx:id="clear" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#clearCalled" text="Clear" />
+                  <Button fx:id="next" mnemonicParsing="false" onAction="#nextCalled" text="Next">
+                     <HBox.margin>
+                        <Insets right="150.0" />
+                     </HBox.margin>
+                  </Button>
+               </children>
+            </HBox>
+         </bottom>
+         <center>
+			<AnchorPane prefHeight="500.0" prefWidth="1280">
+			   <children>
+				  <ImageView fx:id="myLogo" fitHeight="87.0" fitWidth="400.0" pickOnBounds="true">
+					 <image>
+						<Image url="@D&amp;DLogo.jpg" />
+					 </image>
+				  </ImageView>
+				  <Label layoutX="67.0" layoutY="97.0" text="Feat Selection">
+					 <font>
+						<Font size="24.0" />
+					 </font>
+				  </Label>
+				  <Label layoutX="67.0" layoutY="152.0" text="Feats">
+					 <font>
+						<Font size="14.0" />
+					 </font>
+				  </Label>
+				  <ListView fx:id="featList" layoutX="122.0" layoutY="152.0" prefHeight="157.0" prefWidth="243.0" />
+				  <Label fx:id="featDesc" alignment="TOP_LEFT" layoutX="122.0" layoutY="339.0" prefHeight="146.0" prefWidth="295.0" text="Discription here" />
+				  <Button fx:id="selectFeat" layoutX="415.0" layoutY="194.0" mnemonicParsing="false" onAction="#featSelected" prefHeight="25.0" prefWidth="59.0" text="Select" />
+				  <Button fx:id="removeFeat" layoutX="415.0" layoutY="218.0" mnemonicParsing="false" onAction="#featRemoved" text="Remove" />
+				  <ListView fx:id="gainedFeats" layoutX="596.0" layoutY="152.0" prefHeight="157.0" prefWidth="243.0" />
+				  <Label layoutX="508.0" layoutY="152.0" text="Gained Feats">
+					 <font>
+						<Font size="14.0" />
+					 </font>
+				  </Label>
+            <Label layoutX="672.0" layoutY="97.0" text="Feats Left:">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+            <Label fx:id="featPoints" layoutX="792.0" layoutY="97.0" prefHeight="35.0" prefWidth="47.0">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+			   </children>
+			</AnchorPane>
+	 </center>
+</BorderPane>

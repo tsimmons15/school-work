@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="1366.0" stylesheets="@application.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.PageThree">
+         <bottom>
+            <HBox fx:id="buttonBox" alignment="CENTER_RIGHT" prefHeight="100.0" prefWidth="200.0" spacing="15.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Button fx:id="go_back" mnemonicParsing="false" text="Go Back" onAction="#prevCalled"/>
+                  <Button fx:id="clear" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" text="Clear" onAction="#clearCalled"/>
+                  <Button fx:id="next" mnemonicParsing="false" onAction="#nextCalled" text="Next">
+                     <HBox.margin>
+                        <Insets right="150.0" />
+                     </HBox.margin>
+                  </Button>
+               </children>
+            </HBox>
+         </bottom>
+         <center>
+			<AnchorPane prefHeight="500.0" prefWidth="1280">
+				<children>
+				  <ImageView fx:id="myLogo" fitHeight="87.0" fitWidth="400.0" pickOnBounds="true">
+					 <image>
+						<Image url="@D&amp;DLogo.jpg" />
+					 </image>
+				  </ImageView>
+				  <Label layoutX="67.0" layoutY="100.0" text="Skill Selection">
+					 <font>
+						<Font size="26.0" />
+					 </font>
+				  </Label>
+				  <HBox fx:id="masterPane" layoutX="67.0" layoutY="135.0" prefHeight="428.0" prefWidth="1129.0" spacing="100.0" />
+				  <Label layoutX="889.0" layoutY="100.0" text="Skill Points Available">
+					 <font>
+						<Font size="26.0" />
+					 </font>
+				  </Label>
+				  <Label fx:id="skillPoints" layoutX="1139.0" layoutY="101.0" prefWidth="60.0" text="0">
+					 <font>
+						<Font size="25.0" />
+					 </font>
+				  </Label>
+			   </children>
+			</AnchorPane>
+
+	 </center>
+</BorderPane>
